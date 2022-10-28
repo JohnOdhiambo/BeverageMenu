@@ -1,5 +1,5 @@
 # recipe_json
-recipe_json</br>
+Recipe_json</br>
 This is a pproject that uses API and javasscript to pick different recipes postred in the open API</br>
 its is syles using css</br>
 
