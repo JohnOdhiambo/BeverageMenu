@@ -1,4 +1,4 @@
-# BeverageJson
+# Beverage Menu
 BeverageMenu</br>
 This is a project that uses API and javasscript to pick different recipes postred in the open API</br>
 its is syles using css</br>
